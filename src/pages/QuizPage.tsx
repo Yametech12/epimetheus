@@ -26,7 +26,7 @@ const ALL_QUESTIONS: Question[] = [
     text: "What is the primary goal of the 'Ignition' phase in the Strategy section?",
     options: ["Building deep emotional connection", "Sparking initial interest and attraction", "Establishing long-term commitment", "Resolving conflicts"],
     correctAnswer: 1,
-    explanation: "Ignition is about the initial spark—getting her attention and creating that first moment of attraction.",
+    explanation: "Ignition is about the initial spark, getting her attention and creating that first moment of attraction.",
     category: "Strategy"
   },
   {

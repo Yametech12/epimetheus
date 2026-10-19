@@ -6,7 +6,7 @@ export const guideSections: GuideSection[] = [
     title: 'The Myth & Introduction',
     content: `
 # The Myth of Epimetheus
-In Greek mythology, Epimetheus was the one who opened his heart to Pandora—not despite the warnings, but because he understood something others didn't: Some things are worth the risk.
+In Greek mythology, Epimetheus was the one who opened his heart to Pandora, not despite the warnings, but because he understood something others didn't: Some things are worth the risk.
 
 When Pandora opened the box, the world was flooded with chaos, doubt, and tests. But at the very bottom, something remained: Hope.
 
@@ -15,7 +15,7 @@ Epimetheus saw past the trials. He saw her. And he held onto what mattered most.
 This system is called EPIMETHEUS because it represents hope for men to make sense of the chaos, deceit and frustration that exists inside the female mind.
 
 ## Redefining the Goal: Total Devotion
-The first obvious goal for most guys is sex. While having sex with a woman is sometimes a challenge, it doesn’t guarantee long term commitment. The next goal is falling in love. But inexperienced women fall in love incredibly easy—and fall out of love just as fast.
+The first obvious goal for most guys is sex. While having sex with a woman is sometimes a challenge, it doesn’t guarantee long term commitment. The next goal is falling in love. But inexperienced women fall in love incredibly easy, and fall out of love just as fast.
 
 The goal of the EPIMETHEUS System is TOTAL DEVOTION. By total devotion, we mean that she is willing to give up her current life plans and devote her entire being to supporting you on your journey. You will get her bending over backwards, going to ridiculous lengths to be by your side, making you her first priority above everything else, including her family.
 
@@ -33,7 +33,7 @@ Women are not "willy-nilly" or illogical. They are extremely logical, but they f
     title: 'The Box: Her Personality',
     content: `
 # The Box: Her Personality
-The Box represents the woman herself—her unique combination of the three core conflicts (Time, Sex, and Relationship lines). Understanding "The Box" means identifying which of the 8 personality types she belongs to. It is the container of her hopes, fears, and desires. You cannot unlock what you do not understand.
+The Box represents the woman herself, her unique combination of the three core conflicts (Time, Sex, and Relationship lines). Understanding "The Box" means identifying which of the 8 personality types she belongs to. It is the container of her hopes, fears, and desires. You cannot unlock what you do not understand.
 
 ## The 8 Types of Boxes
 Each woman's "Box" is a unique configuration of her biological and social strategies. By identifying her type, you gain a blueprint for her behavior, her desires, and her potential for devotion.
@@ -44,7 +44,7 @@ Each woman's "Box" is a unique configuration of her biological and social strate
     title: 'The Key: The Strategy',
     content: `
 # The Key: The Strategy
-The Key is the Emotional Trigger Sequence (ETS). Every "Box" has a specific "Key"—a unique sequence of emotions (Intrigue, Comfort, Arousal, Devotion) that must be triggered in the correct order to achieve total devotion. The Key also includes the tactical stages of interaction: Ignition, Momentum, Connection, and Bonding.
+The Key is the Emotional Trigger Sequence (ETS). Every "Box" has a specific "Key", a unique sequence of emotions (Intrigue, Comfort, Arousal, Devotion) that must be triggered in the correct order to achieve total devotion. The Key also includes the tactical stages of interaction: Ignition, Momentum, Connection, and Bonding.
 
 ## Unlocking the Sequence
 The Key is not just about what you say, but the order in which you say it. Triggering Arousal before Comfort with a Denier will jam the lock. Triggering Devotion before Intrigue with a Tester will make her lose interest.
@@ -154,7 +154,7 @@ Give her a direct, sincere compliment with strong eye contact.
 Men focus on facts and problem-solving. Women focus on empathy and exploring emotions. You must shift to an emotion-based mindset.
 
 ## Relating over Problem Solving
-Interact with women the way you do with your closest friends—alternating between joking and ribbing, listening intently, and sharing deepest thoughts. Charming men are uncensored and unafraid to show vulnerability.
+Interact with women the way you do with your closest friends, alternating between joking and ribbing, listening intently, and sharing deepest thoughts. Charming men are uncensored and unafraid to show vulnerability.
 
 ## Inner Process Language
 Include details about how you felt or what you thought. Talk about the kind of person you are. Use your tone, facial expressions, and gestures to emphasize feelings.
@@ -257,7 +257,7 @@ Women are actually kinkier and more adventurous than men, but men often prevent 
 
 ## Type-Specific Dynamics
 - Playette: Needs novelty and edgy activities. Threesomes are novel because she's never had one and being desired by another woman is a turn-on.
-- Social Butterfly: Treat her like a "sex doll"—she likes to be thrown around and grabbed. Variety is key.
+- Social Butterfly: Treat her like a "sex doll", she likes to be thrown around and grabbed. Variety is key.
 - Hopeful Romantic: Frame freaky shit as a way to become closer. She'll do anything to keep you devoted.
 - Cinderella: Hardest to get into a threesome; use the third party as a "gift" to her.
 - Private Dancer: Wants to role-play as a way of escaping rigid reality. Give her a sense of control.
@@ -275,8 +275,8 @@ Maintain the dynamic that you are the most important person in the relationship.
 
 ## The Three Pillars
 1. Vision: Be the leader. Have goals, hobbies, and rules. Women want a man who is passionate about something and going somewhere.
-2. Investment: Ask for her help with everything—massages, gifts, cooking. The more she invests, the more she is bound to you.
-3. Potential: Never be "sold." Keep the dynamic of potentiality—the possibility that you could meet someone else if no longer satisfied.
+2. Investment: Ask for her help with everything, massages, gifts, cooking. The more she invests, the more she is bound to you.
+3. Potential: Never be "sold." Keep the dynamic of potentiality, the possibility that you could meet someone else if no longer satisfied.
 
 ## The Us-Frame
 Shift from seeing her as a conquest to seeing her as a partner and teammate. A bond based on care, respect, and shared experience is crucial.

@@ -124,7 +124,7 @@ export const personalityTypes: PersonalityProfile[] = [
       "Behavior: Asking for permission for every physical move",
     ],
     compatibility:
-      "The Playette is most compatible with the 'Alpha' archetype—men who are independent, slightly aloof, and have a strong vision. She needs a man who doesn't 'need' her, as she is used to filling the 'Player' role herself. A man who can provide 'Prince Charming' energy while maintaining his own life will win her devotion.",
+      "The Playette is most compatible with the 'Alpha' archetype, men who are independent, slightly aloof, and have a strong vision. She needs a man who doesn't 'need' her, as she is used to filling the 'Player' role herself. A man who can provide 'Prince Charming' energy while maintaining his own life will win her devotion.",
     coldReads: [
       "You have a very selective energy; you don't just let anyone in, but once you do, I bet you're surprisingly warm.",
       "I can tell you're a quiet observer who sees things most people miss.",
@@ -136,7 +136,7 @@ export const personalityTypes: PersonalityProfile[] = [
       vision:
         "The Playette is intrigued by creative, mysterious men. Convey unique interests. Reluctantly show her your 'depth'. For example, if you have a creative project, mention it subtly and make her ask to see it. Show her reluctantly, conveying how important it is to you.",
       investment:
-        "Get her in the habit of investing in you as a source of therapy or inspiration. Use her as a muse—have her massage you or pick out movies to watch together. This makes her feel like the chaser, not the chased.",
+        "Get her in the habit of investing in you as a source of therapy or inspiration. Use her as a muse, have her massage you or pick out movies to watch together. This makes her feel like the chaser, not the chased.",
       potential:
         "Avoid labels. If she expects to be your girlfriend immediately after sex, convey that you aren't ready to get serious because you've been hurt in the past. This flips the script and makes her try to 'save' you.",
     },
@@ -357,7 +357,7 @@ export const personalityTypes: PersonalityProfile[] = [
     overview:
       "The Hopeful Romantic is somewhat old-fashioned. She daydreams about the perfect man coming into her life, romantic escapades, and has long-term hopes with the men she gets involved with. She sizes guys up as long-term partners immediately.",
     desires:
-      'She thinks she wants a patient man, but responds to bad boys with emotional strength. She wants a man to save—someone mysterious, artistic, or "wounded." She needs to feel safe before letting her guard down.',
+      'She thinks she wants a patient man, but responds to bad boys with emotional strength. She wants a man to save, someone mysterious, artistic, or "wounded." She needs to feel safe before letting her guard down.',
     whatSheWants:
       'She wants a deep, soul-level connection. She is looking for "The One" and wants a man who is sincere, protective, and has a clear vision for the future. She wants to feel like she is part of a "Us against the world" story and often wants to be the one who "saves" or nurtures a man with a hidden vulnerable side.',
     whatToAvoid: [
@@ -473,7 +473,7 @@ export const personalityTypes: PersonalityProfile[] = [
       'Behavior: Dismissing her dreams as "unrealistic"',
     ],
     compatibility:
-      "The Hopeful Romantic is looking for 'The One.' She is most compatible with the 'Protector' or 'Provider' archetype—men who are sincere, warm, and offer a clear long-term vision. She needs to feel emotionally safe, but also responds to 'Bad Boys' who show a hidden vulnerable side she can 'save'.",
+      "The Hopeful Romantic is looking for 'The One.' She is most compatible with the 'Protector' or 'Provider' archetype, men who are sincere, warm, and offer a clear long-term vision. She needs to feel emotionally safe, but also responds to 'Bad Boys' who show a hidden vulnerable side she can 'save'.",
     coldReads: [
       "You seem like someone who has a very rich inner world, and you're just waiting for someone who actually wants to explore it with you.",
       "I bet you've been disappointed by guys who only saw your surface and never bothered to understand your heart.",
@@ -649,8 +649,8 @@ export const personalityTypes: PersonalityProfile[] = [
     coldReads: [
       "You have this elegant aura, but I can tell you're secretly a hopeless romantic waiting for a real adventure.",
       "I bet you get tired of guys who are intimidated by your looks and never bother to see the nurturing woman underneath.",
-      "You seem like someone who values the finer things in life, but not just for the sake of luxury—for the feeling of being special.",
-      "I can tell you're looking for a man who is a 'Great Catch'—someone who can actually keep up with you.",
+      "You seem like someone who values the finer things in life, but not just for the sake of luxury, for the feeling of being special.",
+      "I can tell you're looking for a man who is a 'Great Catch', someone who can actually keep up with you.",
       "You have a look that says you're used to being in control, but you're secretly dying for someone to take the lead.",
     ],
     relationshipAdvice: {
@@ -988,7 +988,7 @@ export const personalityTypes: PersonalityProfile[] = [
       "Behavior: Begging for her attention or double-texting",
     ],
     compatibility:
-      "The Seductress is most compatible with her equal—the 'Alpha Male' or 'Power Player.' She needs a man who isn't intimidated by her confidence or success. She enjoys the chase and is most attracted to men who can challenge her and maintain their own 'swagger' even in her presence.",
+      "The Seductress is most compatible with her equal, the 'Alpha Male' or 'Power Player.' She needs a man who isn't intimidated by her confidence or success. She enjoys the chase and is most attracted to men who can challenge her and maintain their own 'swagger' even in her presence.",
     coldReads: [
       "You're so used to men being intimidated by you that when someone actually stands their ground, you don't know what to do.",
       "You use your sexuality as a weapon to keep control, but I bet you secretly want someone who can disarm you.",
@@ -1046,7 +1046,7 @@ export const personalityTypes: PersonalityProfile[] = [
     overview:
       "The Connoisseur is a combination of Investor, Denier, and Realist. She is the most selective and high-standard of the Investors. She is a Realist, so she values competence and stability. She is a Denier, so she is very private about her personal life. She is an Investor, so she is looking for a man she can truly respect and build a future with.",
     desires:
-      'She wants a man who is even more selective and has higher standards than she does. She wants a man who is a "Connoisseur" himself—someone who appreciates the finer things in life and has a clear vision for his future. She craves a man who is a "Master" of his craft.',
+      'She wants a man who is even more selective and has higher standards than she does. She wants a man who is a "Connoisseur" himself, someone who appreciates the finer things in life and has a clear vision for his future. She craves a man who is a "Master" of his craft.',
     whatSheWants:
       "She wants a man who is a leader, a provider, and a protector. She wants to feel like she has finally met her match. She wants a man who is passionate, ambitious, and who will challenge her to be her best self. She wants a man who is not looking for just anyone.",
     whatToAvoid: [
@@ -1164,12 +1164,12 @@ export const personalityTypes: PersonalityProfile[] = [
       "You evaluate everyone you meet almost instantly. It must be hard finding people who actually meet your standards.",
       "You have this refined taste, but I bet you have a secret guilty pleasure that you hide from your sophisticated friends.",
       "I can tell you value quality over quantity in every area of your life, especially your relationships.",
-      "You seem like someone who is looking for a true equal—someone who can actually challenge you intellectually.",
+      "You seem like someone who is looking for a true equal, someone who can actually challenge you intellectually.",
       "I bet you're the person your friends go to when they want the absolute best recommendation for anything.",
     ],
     relationshipAdvice: {
       vision:
-        "She is turned on by a man with a unique set of goals—a path different from the pack. Side-step her high standards by having a unique direction in life that prevents her from comparing you to other men.",
+        "She is turned on by a man with a unique set of goals, a path different from the pack. Side-step her high standards by having a unique direction in life that prevents her from comparing you to other men.",
       investment:
         "She will take the lead in investing if she takes you seriously. Get compliance right away by enticing her to show off her skills (e.g., cooking) or having her pick a restaurant. She's not used to guys asking for compliance.",
       potential:
@@ -1189,7 +1189,7 @@ export const personalityTypes: PersonalityProfile[] = [
     interactionStrategy:
       "Demonstrate high value and ambition while maintaining your own high standards, proving you are a 'Master' worth her investment.",
     psychologicalPortrait: {
-      motivations: "Finding a true equal—a man who matches her ambition, intellect, and competence.",
+      motivations: "Finding a true equal, a man who matches her ambition, intellect, and competence.",
       fears: "Settling for a weak man, losing her hard-earned status, and wasting her time.",
       childhoodInfluences: "Often raised by highly demanding parents who valued achievement above all else. Success equals love."
     },
@@ -1219,7 +1219,7 @@ export const personalityTypes: PersonalityProfile[] = [
     overview:
       "The Modern Woman is a combination of Investor, Justifier, and Realist. She is the most balanced and healthy of the Investors. She is a Realist, so she values honesty and authenticity. She is a Justifier, so she doesn’t feel guilty about her choices. She is an Investor, so she is looking for a man she can truly connect with and build a future with.",
     desires:
-      'She wants a man who is honest, authentic, and who has a clear vision for his future. She wants a man who is her equal and who respects her independence. She craves a man who is a "Modern Man"—someone who is comfortable with his own sexuality and who values mutual satisfaction.',
+      'She wants a man who is honest, authentic, and who has a clear vision for his future. She wants a man who is her equal and who respects her independence. She craves a man who is a "Modern Man", someone who is comfortable with his own sexuality and who values mutual satisfaction.',
     whatSheWants:
       'She wants a man who is a partner, a friend, and a lover. She wants to feel like she has finally met her match. She wants a man who is passionate, ambitious, and who will support her in her own goals. She wants a man who is not looking for a "traditional" woman.',
     whatToAvoid: [
@@ -1332,7 +1332,7 @@ export const personalityTypes: PersonalityProfile[] = [
       "Behavior: Being unreliable or flaking on plans",
     ],
     compatibility:
-      "The Modern Woman is most compatible with the 'Modern Man'—someone who is honest, authentic, and has a healthy approach to life and sex. She values independence and mutual respect. A man who is going somewhere in life and doesn't display neediness will find her to be a level-headed and exciting partner.",
+      "The Modern Woman is most compatible with the 'Modern Man', someone who is honest, authentic, and has a healthy approach to life and sex. She values independence and mutual respect. A man who is going somewhere in life and doesn't display neediness will find her to be a level-headed and exciting partner.",
     coldReads: [
       "You're so fiercely independent that I bet guys often mistake your self-sufficiency for not needing them at all.",
       "You have a very pragmatic view of love. You don't need a fairy tale, you just want a real partner.",

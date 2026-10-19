@@ -47,7 +47,7 @@ export default function HomePage() {
                 <BookOpen className="w-6 h-6" /> The Story
               </h2>
               <p className="text-slate-300 leading-relaxed text-lg">
-                In Greek mythology, Epimetheus was the one who opened his heart to Pandora—not despite the warnings, but because he understood something others didn't: <strong>Some things are worth the risk.</strong>
+                In Greek mythology, Epimetheus was the one who opened his heart to Pandora, not despite the warnings, but because he understood something others didn't: <strong>Some things are worth the risk.</strong>
               </p>
               <p className="text-slate-300 leading-relaxed text-lg">
                 When Pandora opened the box, the world was flooded with chaos, doubt, and tests. But at the very bottom, something remained: <strong>Hope.</strong>
@@ -67,7 +67,7 @@ export default function HomePage() {
               <ul className="space-y-4 mt-4">
                 <li className="flex items-start gap-3">
                   <div className="w-2 h-2 rounded-full bg-accent-primary mt-2 shrink-0" />
-                  <p className="text-slate-300"><strong className="text-white">Meet the Testers</strong> – Women who guard their hearts because they're worth guarding. Profiles reveal her "tests" upfront—so you know what you're walking into.</p>
+                  <p className="text-slate-300"><strong className="text-white">Meet the Testers</strong> – Women who guard their hearts because they're worth guarding. Profiles reveal her "tests" upfront, so you know what you're walking into.</p>
                 </li>
                 <li className="flex items-start gap-3">
                   <div className="w-2 h-2 rounded-full bg-accent-primary mt-2 shrink-0" />
